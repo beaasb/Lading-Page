@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Este projeto foi realizado com base no que foi desenvolvido pelo [DevEnvolvente0190](https://github.com/DevEnvolvente0190), o qual criei uma landing page para fazer propaganda de um lanche com um landing responsiva. 
+Este projeto foi realizado com base no que foi desenvolvido pelo [DevEnvolvente0190](https://github.com/DevEnvolvente0190), o qual criei uma landing page para fazer propaganda de um hamburguer com um landing responsiva. 
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
